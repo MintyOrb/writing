@@ -7,7 +7,7 @@ updated: null
 tags: ['Perception','Reality','Senses','Science','Understanding']
 ---
 
-#### Our brains lie to us.
+## Our brains lie to us.
 
 How to try and see what's really there.
 

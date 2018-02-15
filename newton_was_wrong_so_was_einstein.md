@@ -6,8 +6,7 @@ thumbnail: 'https://cdn-images-1.medium.com/max/1760/1*dJnRAypXEh7LFZCvaNpOhA.pn
 updated: null
 tags: ['Science', 'Gravity', 'Physics', 'Reason', 'Facts']
 ---
-#### Newton was wrong. So was Einstein. And that's okay...
-
+## Newton was wrong. So was Einstein. And that's okay...
 Our best, most current, most accurate, and most predictive theories are *not*fundamentally true.
 
 Less than 400 years ago with the publication of the *Principia* in 1687, Isaac Newton shook the global scientific community, put the final nail in the coffin for geocentrism, and revolutionized humanities conception of reality with his universal law of gravitation and other laws of motion.

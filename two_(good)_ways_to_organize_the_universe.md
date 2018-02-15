@@ -6,10 +6,8 @@ thumbnail: 'https://cdn-images-1.medium.com/max/2000/0*kPjHiS-Wrel4ZIfM.'
 updated: null
 tags: ['Science', 'Big History', 'Cosmology', 'Perspective', 'Universe']
 ---
-#### Two (Good) Ways to Organize the Universe
-
+## Two (Good) Ways to Organize the Universe
 Frameworks for universal literacy
----------------------------------
 
 #### short version | tl;dr:
 

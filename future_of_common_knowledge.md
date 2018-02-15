@@ -6,7 +6,6 @@ updated: null
 thumbnail: 'https://cdn-images-1.medium.com/max/2000/1*O4jG21GILfzDuZ4eWvH7_Q.png'
 tags: ['Big Pictures','Humanity','Society','Knowledge']
 ---
-
 ## The future of common knowledge
 Humanity's greatest uncommon insights
 

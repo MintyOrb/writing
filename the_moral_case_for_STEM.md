@@ -6,8 +6,7 @@ thumbnail: 'https://cdn-images-1.medium.com/max/1760/1*cM_ktfVHDQlJPmD5NYHsEw.pn
 updated: null
 tags: ['Morality','Science','Society','Knowledge']
 ---
-
-#### The moral case for understanding STEM.
+## The moral case for understanding STEM.
 
 Civilization is a thin and fragile layer.
 
