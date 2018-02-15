@@ -26,7 +26,7 @@ Infrastructure, energy, food production, transportation, communications, manufac
 
 Society is the most complex, interconnected, and interdependent it's ever been.
 
-But it's *not* the most resilient.
+__But it's *not* the most resilient.__
 
 We've built civilization upon pillars of scientific and technological advances, but it's become very easy to take them for granted- turning a blind eye as they weather and erode from lack of maintenance.
 
