@@ -1,6 +1,7 @@
 ---
 title: Two (Good) Ways to Organize the Universe
-date: 2017-02-24
+published: 2017-02-24
+thumbnail: 'https://cdn-images-1.medium.com/max/2000/0*kPjHiS-Wrel4ZIfM.'
 updated: null
 tags: ['Science', 'Big History', 'Cosmology', 'Perspective', 'Universe']
 ---

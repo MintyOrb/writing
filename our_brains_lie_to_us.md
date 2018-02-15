@@ -1,6 +1,7 @@
 ---
 title: Our brains lie to us.
-date: 2018-01-24
+published: 2018-01-24
+thumbnail: 'https://cdn-images-1.medium.com/max/1760/1*42HYjKFdtPtYhT8mNcS22w.png'
 updated: null
 tags: ['Perception','Reality','Senses','Science','Understanding']
 ---

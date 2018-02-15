@@ -7,6 +7,7 @@ import json
 def processArticle(path):
     post = frontmatter.load(path)
     obj = {}
+    obj['fileName'] = path
     obj['readTime'] = str(len(post.content.split()) / 250) + " minutes"
     obj['words'] = len(post.content.split())
     for key in post.keys():
@@ -28,6 +29,8 @@ if __name__ == '__main__':
 
     for article in articles:
         index.append(processArticle(article))
+
+    # save index
     with open('index.json', 'w') as outfile:
         json.dump(index, outfile, default=json_serial)
 

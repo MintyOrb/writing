@@ -1,7 +1,8 @@
 ---
 title: The future of common knowledge
-date: 2017-02-08
+published: 2017-02-08
 updated: null
+thumbnail: 'https://cdn-images-1.medium.com/max/2000/1*O4jG21GILfzDuZ4eWvH7_Q.png'
 tags: ['Big Pictures','Humanity','Society','Knowledge']
 ---
 

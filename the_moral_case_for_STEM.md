@@ -1,6 +1,7 @@
 ---
 title: The moral case for understanding STEM
-date: 2018-01-31
+published: 2018-01-31
+thumbnail: 'https://cdn-images-1.medium.com/max/1760/1*cM_ktfVHDQlJPmD5NYHsEw.png'
 updated: null
 tags: ['Morality','Science','Society','Knowledge']
 ---
