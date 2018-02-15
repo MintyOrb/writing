@@ -19,9 +19,9 @@ As soon as we're born (even a little earlier, actually [[s](https://ccns.sbg.ac.
 
 Over time, we build up and refine models in our heads of the way things seem to be.
 
-We can only expose ourselves to a* tiny fraction* of possible experiences and ideas, so we know our models are at best, incomplete.
+We can only expose ourselves to a *tiny fraction* of possible experiences and ideas, so we know our models are at best, incomplete.
 
-But how do we know we can trust our interpretation of the limited experiences we *do *have?
+But how do we know we can trust our interpretation of the limited experiences we *do have?*
 
 The unfortunate truth is...
 
@@ -29,10 +29,10 @@ The unfortunate truth is...
 
 Briefly, we'll try to address this by looking at:
 
--   the limits of our senses (illusions and how we simply lack senses)
--   extending our senses (translation via technology)
--   borrowing other people's ideas (especially dead people)
--   how we're just not that good at thinking clearly (mostly just bias)
+-   __the limits of our senses__ (illusions and how we simply lack senses)
+-   __extending our senses__ (translation via technology)
+-   __borrowing other people's ideas__ (especially dead people)
+-   __how we're just not that good at thinking clearly__ (mostly just bias)
 
 ### The limits of our senses
 
@@ -74,7 +74,7 @@ Our sense of touch can be fooled too:
 
 ![](https://cdn-images-1.medium.com/max/1760/1*jQNbh8TdEVEEVMVgkFsYqA.gif)
 
-In the rubber hand illusion [[s]](https://www.youtube.com/watch?v=nzF_DfOafKw)
+[[s]](https://www.youtube.com/watch?v=nzF_DfOafKw)
 
 In the rubber hand illusion (and other body transfer illusions), the subject is fooled into thinking they have ownership over part of a body, or an entire body that is not there own. [[s]](https://en.wikipedia.org/wiki/Body_transfer_illusion)
 
@@ -82,7 +82,7 @@ This is also related to phantom limbs. ~60%--80% of amputees report the sensatio
 
 ![](https://cdn-images-1.medium.com/max/1760/1*vLbYgDzwwA978VYHk56BHg.jpeg)
 
-Thermal grill illusion [[s]](http://mariaeuler.com/wp-content/uploads/2016/05/E0C381B5-71FA-4F60-8C2B75F8CF002984.jpg)
+[[s]](http://mariaeuler.com/wp-content/uploads/2016/05/E0C381B5-71FA-4F60-8C2B75F8CF002984.jpg)
 
 In the thermal grill illusion, subjects report feeling a searing pain when resting their hand on alternating warm and cool pipes, which individually, are not extreme in temperature. [[s]](https://en.wikipedia.org/wiki/Thermal_grill_illusion)
 
@@ -220,13 +220,13 @@ Thanks to the backfire effect, a subset of confirmation bias, when we're exposed
 
 All this to say, as Richard Feynman put it, *"the easiest person to fool is yourself."*
 
-We can't take our lenses of bias off, but we can try to understand how they're warping our perspective and aim to correct for them to the best of our abilities.
+__We can't take our lenses of bias off__, but we can try to understand how they're warping our perspective and aim to correct for them to the best of our abilities.
 
 #### Where do we go from here?
 
 Our perceptions are faulty and limited and no single person has the answers, but as we endeavor to discover, extend and reinterpret our senses, learn from our ancestors, and aggregate all of our subjective perspectives, we end up with models in our heads that much more closely reflect the objective truth.
 
-To summarize, there are a few things we can do to try to account for our faulty perceptions:
+__To summarize__, there are a few things we can do to try to account for our faulty perceptions:
 
 1.  Recognize the limitations of our biological senses
 2.  Understand how the tools that extend our senses work, so we can more accurately interpret the aspects of reality that they're translating

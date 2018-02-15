@@ -7,7 +7,7 @@ updated: null
 tags: ['Science', 'Gravity', 'Physics', 'Reason', 'Facts']
 ---
 ## Newton was wrong. So was Einstein. And that's okay...
-Our best, most current, most accurate, and most predictive theories are *not*fundamentally true.
+Our best, most current, most accurate, and most predictive theories are *not* fundamentally true.
 
 Less than 400 years ago with the publication of the *Principia* in 1687, Isaac Newton shook the global scientific community, put the final nail in the coffin for geocentrism, and revolutionized humanities conception of reality with his universal law of gravitation and other laws of motion.
 
@@ -19,7 +19,7 @@ Heliocentrism and geocentrism. [[s](https://www.google.com.mx/url?sa=t&rct=j&q=&
 
 Finally the movements of the planets and falling objects like apples were conceptualized under a unified mathematical framework.
 
-Unfortunately, his equations were wrong.
+__Unfortunately, his equations were wrong.__
 
 If we use Newton's laws of motion to calculate positions on earth using our GPS satellites, it would start out alright...but by the end of a single day they would be off by miles. [[1](https://physics.stackexchange.com/questions/1061/why-does-gps-depend-on-relativity)]
 
@@ -37,7 +37,7 @@ A very serious scientist. [[s](https://4.bp.blogspot.com/-XX1s8kCntRA/V9h9MRC1tI
 
 Einstein's theories of special and general relativity explain all of these discrepancies of Newton's laws. They give the correct solution to Mercury's orbit, we adjust the clocks on GPS satellites to account for time dilation, and relativity exquisitely describes the motions of object and warping of spacetime near black holes and near the speed of light.
 
-But even relativity falls apart at the extremes.
+__But even relativity falls apart at the extremes.__
 
 Einstein's equations* don't*describe what happens in the singularities of black holes, and though you can use them to accurately rewind the clock of physics to mere fractions of a fraction of a second after the big bang, they break down there as well.
 
@@ -79,9 +79,9 @@ For example, with relativity there is no experiment in disagreement with its exp
 
 Each subsequent theory, whether for gravity, atomic structure, or just about anything else, has been *less wrong* than the ones before.
 
-Relativity *encompasses* Newton's laws...they can be derived from Einstein's equations. [[3](http://aip.scitation.org/doi/abs/10.1063/1.1664691)][[4](https://www.quora.com/How-can-we-derive-Newtons-law-of-gravitation-from-Einsteins-theory-of-relativity)] The quantum model of the atom *encompasses *and better explains the plum pudding, nuclear, and planetary models.
+Relativity *encompasses* Newton's laws...they can be derived from Einstein's equations. [[3](http://aip.scitation.org/doi/abs/10.1063/1.1664691)][[4](https://www.quora.com/How-can-we-derive-Newtons-law-of-gravitation-from-Einsteins-theory-of-relativity)] The quantum model of the atom *encompasses* and better explains the plum pudding, nuclear, and planetary models.
 
-Finding discrepancies between predictions and experimental evidence is a scientific triumph rather than a failure, as it represents a new platform on which to further our understanding.
+__Finding discrepancies between predictions and experimental evidence is a scientific triumph rather than a failure, as it represents a new platform on which to further our understanding.__
 
 *We can never prove anything to be true.*
 
@@ -93,4 +93,4 @@ These insights triggered successive ontological reawakenings for humanity and un
 
 Newton was wrong and so was Einstein, and that's okay because their insights are fundamentally important steps towards a more fully accurate understanding of reality and our existence.
 
-*Drafts and edits found *[*here.*](https://docs.google.com/document/d/1dwVDQY89vtC7lrYA1sTPKN9_eMm7HsOq_Rmi5B0vtxI/edit?usp=sharing)
+*Drafts and edits found* [*here.*](https://docs.google.com/document/d/1dwVDQY89vtC7lrYA1sTPKN9_eMm7HsOq_Rmi5B0vtxI/edit?usp=sharing)

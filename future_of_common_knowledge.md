@@ -33,7 +33,7 @@ Objective knowledge provides a common basis for our rationality.
 
 It puts us in the same ontological universe.
 
-Living in the same ontological universe leads us to *not *kill each over differences in ideology.
+Living in the same ontological universe leads us to *not* kill each over differences in ideology.
 
 Every experiment we've ever performed seems to point to the fact that we live in a single, coherent, consistent universe governed by laws that can be uncovered and understood.
 
@@ -123,7 +123,7 @@ The whole species will anxiously await the results of major experiments as if we
 
 Well, first realize that all of this is *already known.*
 
-Everything mentioned is well understood science. We *already *have an incredibly detailed, evidence based story for how the earth got here.
+Everything mentioned is well understood science. We *already* have an incredibly detailed, evidence based story for how the earth got here.
 
 We actually *do* know where the interesting questions are.
 
@@ -154,7 +154,7 @@ In some sense, we just have to remember that the universe is still amazing.
 
 > "Somewhere out there, something incredible is waiting to be known"
 
-> --- Carl Sagan
+> - Carl Sagan
 
 That innate curiosity and desire to better understand is still somewhere inside us. If the flame has gone out, we can reignite it. There's a lot more to be known...
 
@@ -178,11 +178,11 @@ Everyone today should have a better understanding of physics than Einstein, not 
 
 The truth is, we can all understand anything we want to in three easy steps (though in some cases we'll have to *really, really* want to and for years at a time...).
 
-The first step towards understanding anything is to find out that it exists.
+__The first step__ towards understanding anything is to find out that it exists.
 
-The second step is to recognize that knowing the name of something tells you *nothing* about what that thing is or how it works.
+__The second step__ is to recognize that knowing the name of something tells you *nothing* about what that thing is or how it works.
 
-The third is trying. Then trying again. Then visiting alternate sources, looking for footholds, looking for mentors, finding other approaches...you get the idea.
+__The third__ is trying. Then trying again. Then visiting alternate sources, looking for footholds, looking for mentors, finding other approaches...you get the idea.
 
 ### What now?
 

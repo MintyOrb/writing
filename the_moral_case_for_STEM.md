@@ -16,7 +16,7 @@ Carl Sagan put it like this...
 
 > "We've arranged a global civilization in which most crucial elements profoundly depend on science and technology. We have also arranged things so that almost no one understands science and technology. This is a prescription for disaster. We might get away with it for a while, but sooner or later this combustible mixture of ignorance and power is going to blow up in our faces."
 
-> -- Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark
+> - Carl Sagan, *The Demon-Haunted World: Science as a Candle in the Dark*
 
 ![](https://cdn-images-1.medium.com/max/1760/1*cM_ktfVHDQlJPmD5NYHsEw.png)
 
@@ -32,27 +32,27 @@ We've built civilization upon pillars of scientific and technological advances, 
 
 Most things seem to work just fine without requiring our daily attention and contribution.
 
-The are so many humans it's easy to start assuming that *someone *has things under control. It enables a kind of willful ignorance and social loafing of knowledge.
+The are so many humans it's easy to start assuming that *someone* has things under control. It enables a kind of willful ignorance and social loafing of knowledge.
 
 The effects of our actions are hard to conceptualize, and no snowflake feels responsible for the avalanche.
 
 ### How fragile is society, really?
 
-At any given moment, over half a million humans are flying through the air in thin metal fuselages [[s]](https://www.quora.com/How-many-people-are-in-the-air-flying-at-any-given-time).
+__At any given moment, over half a million humans are flying through the air in thin metal fuselages [[s]](https://www.quora.com/How-many-people-are-in-the-air-flying-at-any-given-time).__
 
-*At the same time, a single computer glitch can cause hundreds of delays or cancellations. *[[1]](http://money.cnn.com/2017/01/29/news/delta-system-outage/index.html)[[2]](http://www.telegraph.co.uk/news/2017/05/27/british-airways-chaos-computer-systems-crash-across-world-causing/)[[3]](http://www.chicagotribune.com/business/ct-united-flight-delays-0209-biz-20170208-story.html)
+*At the same time, a single computer glitch can cause hundreds of delays or cancellations.* [[1]](http://money.cnn.com/2017/01/29/news/delta-system-outage/index.html)[[2]](http://www.telegraph.co.uk/news/2017/05/27/british-airways-chaos-computer-systems-crash-across-world-causing/)[[3]](http://www.chicagotribune.com/business/ct-united-flight-delays-0209-biz-20170208-story.html)
 
-Monocropping and farming on massive scales has made food production insanely productive and efficient.
+__Monocropping and farming on massive scales has made food production insanely productive and efficient.__
 
-*But, a single pest or disease can wipe out the entire yield as it did in the irish potato famine. *[[1]](http://www.gracelinks.org/blog/1150/the-danger-of-monocrops-lessons-from-the-irish-potato-famin)[[2]](https://www.sciencedaily.com/releases/2016/10/161012134054.htm)
+*But, a single pest or disease can wipe out the entire yield as it did in the Irish potato famine.*[[1]](http://www.gracelinks.org/blog/1150/the-danger-of-monocrops-lessons-from-the-irish-potato-famin)[[2]](https://www.sciencedaily.com/releases/2016/10/161012134054.htm)
 
-In any modern city *millions *of humans packed into close proximity can coexist in relative harmony.
+__In any modern city *millions* of humans packed into close proximity can coexist in relative harmony.__
 
 *But, any city is just three days without food, power, or water away from rioting and chaos.* [[1]](https://www.ctvnews.ca/world/chaos-and-looting-in-los-cabos-as-electricity-water-out-3-days-after-odile-1.2010764)[[2]](https://www.thetimes.co.uk/article/britain-four-meals-away-from-anarchy-fc9kfgc0w92)
 
 #### Technology has enabled individuals to do what only governments and corporations could do before.
 
-With a few keystrokes a programmer can spin up hundreds of computers to train a machine learning algorithm that can help detect early stages of cancer.
+__With a few keystrokes a programmer can spin up hundreds of computers to train a machine learning algorithm that can help detect early stages of cancer.__
 
 *Or they can unleash a national scale cyber attack.*
 
@@ -76,7 +76,7 @@ In truth, the vast majority of people in industrialized societies today live lon
 
 It's worth noting that we didn't get to this peak of modern society *despite*specialization of knowledge and the division of labor, but *because of it.*
 
-But that doesn't mean we should let the division of labor define the division of knowledge.
+__But that doesn't mean we should let the division of labor define the division of knowledge.__
 
 We're only surrounded by magical devices and systems we can't explain if we *choose ignorance*. If we endeavor to discover, we're instead surrounded by an explorable, comprehensible, and beautiful world of collective human knowledge.
 
@@ -112,10 +112,10 @@ Then we have to develop the skills to start exploring...learn to take that compl
 
 *But starting somewhere does.*
 
-If we want to play our role in preventing societal collapse, we're obligated to identify what is magic to us, and to try and make it understood.
+__If we want to play our role in preventing societal collapse, we're obligated to identify what is magic to us, and to try and make it understood.__
 
-This *might *feel like a destruction of beauty or of something sacred...but in practice, fuller appreciation of something's true complexity only *adds *to its beauty.
+This *might* feel like a destruction of beauty or of something sacred...but in practice, fuller appreciation of something's true complexity only *adds* to its beauty.
 
-There are many paths to beauty *only *accessible through scientific inquiry.
+__There are many paths to beauty *only* accessible through scientific inquiry.__
 
 Endeavoring to walk them not only opens us to the awe of the natural world, but simultaneously makes society as a whole more reliant.
