@@ -1,5 +1,6 @@
 ---
 title: The future of common knowledge
+subtitle: Humanity's greatest uncommon insights
 published: 2017-02-08
 updated: null
 thumbnail: 'https://cdn-images-1.medium.com/max/2000/1*O4jG21GILfzDuZ4eWvH7_Q.png'

@@ -1,5 +1,6 @@
 ---
 title: Two (Good) Ways to Organize the Universe
+subtitle: The time and size scales of reality
 published: 2017-02-24
 thumbnail: 'https://cdn-images-1.medium.com/max/2000/0*kPjHiS-Wrel4ZIfM.'
 updated: null
