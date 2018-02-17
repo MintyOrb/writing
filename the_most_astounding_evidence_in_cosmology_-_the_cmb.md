@@ -31,11 +31,11 @@ So what the hell is that?
 
 In the beginning, everything used to be quite hot and dense, and for the last 13.8 billion years everything's been expanding, cooling, and coalescing into pockets of complexity.
 
-If you go back far enough, there were no people, no planets, no molecules, no stars…in fact, there weren't even any elements.
+If you go back far enough, there were no people, no planets, no molecules, no stars...in fact, there weren't even any elements.
 
 The CMBR, or cosmic microwave background radiation, is a picture of what this looked like- when the only things that existed were giant clouds of hydrogen and helium gas.
 
-It's a real picture…though it's taken in the microwave range rather than with visible light.
+It's a real picture...though it's taken in the microwave range rather than with visible light.
 
 ##### A phase change of the universe
 
@@ -43,7 +43,7 @@ Just like expanding a volume of gas lowers its temperature (the principle used i
 
 The CMBR represents a critical point in the universes history- when it cooled enough to go through a phase change.
 
-This change is exactly like the phase changes we're already familiar with, freezing, boiling, condensing…
+This change is exactly like the phase changes we're already familiar with, freezing, boiling, condensing...
 
 Just like lowering the temperature of a gas turns it into a liquid, 380,000 years after the big bang, the universe cooled enough to turn from a plasma into a gas.
 
@@ -69,7 +69,7 @@ The light released at this moment has been travelling unimpeded since. 
 
 ##### **How do we know it's there?**
 
-The light released in this phase change has been traveling through the epic 13.8 billion year journey of cosmic evolution. Through the birth of the first stars, the first supernova explosions and heavy elements that came with them. Through the first planets coalescing and solar systems forming, the development and evolution of life on earth, the birth humanity and the first civilizations, the invention of the internet and space telescopes…
+The light released in this phase change has been traveling through the epic 13.8 billion year journey of cosmic evolution. Through the birth of the first stars, the first supernova explosions and heavy elements that came with them. Through the first planets coalescing and solar systems forming, the development and evolution of life on earth, the birth humanity and the first civilizations, the invention of the internet and space telescopes...
 
 **The microwave light collected on the sensors of our space telescopes today are the very same photons that were released at the moment of this transition.**
 
@@ -109,7 +109,7 @@ The color differences illustrate minute variations in temperature which correspo
 
 Though extremely small, these variations are extraordinarily important to the evolution of the cosmos.
 
-These tiny differences are what seeded the first stars and galaxies…they provided the initial gradient of gravitational energy which triggered the collapse of these vast clouds of hydrogen and helium into the first stars. 
+These tiny differences are what seeded the first stars and galaxies...they provided the initial gradient of gravitational energy which triggered the collapse of these vast clouds of hydrogen and helium into the first stars. 
 
 These tiny fluctuations ultimately give rise to the galaxies, galactic clusters, and superclusters that we see on the largest scales of the cosmos.
 
@@ -119,8 +119,8 @@ We don't.
 
 Our understanding of this astounding evidence will almost definitely be enhanced, **but the evidence isn't going away.**
 
-The CMBR fits seamlessly alongside the vast number of other observations made probing the nature of the universe. Along with the cosmic redshift, it provides the basis for the cohesive compelling story of how we got to where we are today. Close analysis of the CMBR reinforces our understanding of not only the age of the universe, but it's size,  shape, and makeup as well. But we'll save that for another article…
+The CMBR fits seamlessly alongside the vast number of other observations made probing the nature of the universe. Along with the cosmic redshift, it provides the basis for the cohesive compelling story of how we got to where we are today. Close analysis of the CMBR reinforces our understanding of not only the age of the universe, but it's size,  shape, and makeup as well. But we'll save that for another article...
 
 New interpretations, explanations and theories are _always_ welcome, but ideas competing to explain the nature of our existence must incorporate and explain this evidence too. 
 
-…bonus points if it makes new predictions that can be tested.
+...bonus points if it makes new predictions that can be tested.
