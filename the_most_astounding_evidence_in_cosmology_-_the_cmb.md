@@ -12,7 +12,7 @@ Do you understand the CMBR?
 
 ![](https://cdn-images-1.medium.com/max/1600/1*3YLeDlOvASyEKTnKR0t8VQ.png)
 
-Astronomy is peering out into space to see what’s there, cosmology is weaving together a story to explain what it is, where it came from, and where it’s going.
+Astronomy is peering out into space to see what's there, cosmology is weaving together a story to explain what it is, where it came from, and where it's going.
 
 While all evidence of cosmology plays a role in this tapestry, the CMBR may well be at the center when it comes to understanding the deep past and ultimate fate of the universe.
 
@@ -29,13 +29,13 @@ So what the hell is that?
 
 ##### **The story of the universe can be summarized simply:**
 
-In the beginning, everything used to be quite hot and dense, and for the last 13.8 billion years everything’s been expanding, cooling, and coalescing into pockets of complexity.
+In the beginning, everything used to be quite hot and dense, and for the last 13.8 billion years everything's been expanding, cooling, and coalescing into pockets of complexity.
 
-If you go back far enough, there were no people, no planets, no molecules, no stars…in fact, there weren’t even any elements.
+If you go back far enough, there were no people, no planets, no molecules, no stars…in fact, there weren't even any elements.
 
 The CMBR, or cosmic microwave background radiation, is a picture of what this looked like- when the only things that existed were giant clouds of hydrogen and helium gas.
 
-It’s a real picture…though it’s taken in the microwave range rather than with visible light.
+It's a real picture…though it's taken in the microwave range rather than with visible light.
 
 ##### A phase change of the universe
 
@@ -43,17 +43,17 @@ Just like expanding a volume of gas lowers its temperature (the principle used i
 
 The CMBR represents a critical point in the universes history- when it cooled enough to go through a phase change.
 
-This change is exactly like the phase changes we’re already familiar with, freezing, boiling, condensing…
+This change is exactly like the phase changes we're already familiar with, freezing, boiling, condensing…
 
 Just like lowering the temperature of a gas turns it into a liquid, 380,000 years after the big bang, the universe cooled enough to turn from a plasma into a gas.
 
- — Just as a quick reminder: A plasma is a state of matter that occurs when there is enough energy to strip an atom’s electrons away from its nucleus. — 
+ — Just as a quick reminder: A plasma is a state of matter that occurs when there is enough energy to strip an atom's electrons away from its nucleus. — 
 
-Before 380,000 years, the universe was so hot that the hydrogen and helium nuclei that had formed within the first few minutes after the big bang couldn’t hold onto any electrons.
+Before 380,000 years, the universe was so hot that the hydrogen and helium nuclei that had formed within the first few minutes after the big bang couldn't hold onto any electrons.
 
 _The entire universe was a plasma._
 
-Because it was a plasma, the entire universe was opaque- just like a thick fog, you couldn’t see through it. Analogous to how a fog disperses light in every direction preventing you from seeing, in this plasma, photons of light were constantly absorbed and reemitted in random directions, scattering off of protons and electrons before they could travel further than a few centimeters.
+Because it was a plasma, the entire universe was opaque- just like a thick fog, you couldn't see through it. Analogous to how a fog disperses light in every direction preventing you from seeing, in this plasma, photons of light were constantly absorbed and reemitted in random directions, scattering off of protons and electrons before they could travel further than a few centimeters.
 
 When the universe was a temperature of about 3000 K, the hydrogen and helium nuclei could finally hold onto their electrons. This represents the first time that atoms as we usually think of them (a coherent collection of protons, neutrons, and electrons) appeared in the universe.
 
@@ -67,7 +67,7 @@ The CMBR is also referred to as **the surface of last scattering**- it was the l
 
 The light released at this moment has been travelling unimpeded since. 
 
-##### **How do we know it’s there?**
+##### **How do we know it's there?**
 
 The light released in this phase change has been traveling through the epic 13.8 billion year journey of cosmic evolution. Through the birth of the first stars, the first supernova explosions and heavy elements that came with them. Through the first planets coalescing and solar systems forming, the development and evolution of life on earth, the birth humanity and the first civilizations, the invention of the internet and space telescopes…
 
@@ -101,11 +101,11 @@ Since its initial discovery, there have been many efforts to probe and better un
 
 A literal increase in scientific resolution over time
 
-This picture compares our best images of the CMBR over time. With the launch of the James Webb Space Telescope in 2019, we’ll get a clearer picture still.
+This picture compares our best images of the CMBR over time. With the launch of the James Webb Space Telescope in 2019, we'll get a clearer picture still.
 
-##### **What’s with those splotches?**
+##### **What's with those splotches?**
 
-The color differences illustrate minute variations in temperature which correspond with tiny variations in density. They’re thought to be caused by quantum fluctuations that were blown up to literally cosmic proportions during the inflationary expansion of the universe.
+The color differences illustrate minute variations in temperature which correspond with tiny variations in density. They're thought to be caused by quantum fluctuations that were blown up to literally cosmic proportions during the inflationary expansion of the universe.
 
 Though extremely small, these variations are extraordinarily important to the evolution of the cosmos.
 
@@ -115,11 +115,11 @@ These tiny fluctuations ultimately give rise to the galaxies, galactic clusters,
 
 ##### **How do we know this is the exact right interpretation?**
 
-We don’t.
+We don't.
 
-Our understanding of this astounding evidence will almost definitely be enhanced, **but the evidence isn’t going away.**
+Our understanding of this astounding evidence will almost definitely be enhanced, **but the evidence isn't going away.**
 
-The CMBR fits seamlessly alongside the vast number of other observations made probing the nature of the universe. Along with the cosmic redshift, it provides the basis for the cohesive compelling story of how we got to where we are today. Close analysis of the CMBR reinforces our understanding of not only the age of the universe, but it’s size,  shape, and makeup as well. But we’ll save that for another article…
+The CMBR fits seamlessly alongside the vast number of other observations made probing the nature of the universe. Along with the cosmic redshift, it provides the basis for the cohesive compelling story of how we got to where we are today. Close analysis of the CMBR reinforces our understanding of not only the age of the universe, but it's size,  shape, and makeup as well. But we'll save that for another article…
 
 New interpretations, explanations and theories are _always_ welcome, but ideas competing to explain the nature of our existence must incorporate and explain this evidence too. 
 
