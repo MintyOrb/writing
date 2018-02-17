@@ -2,7 +2,7 @@
 title: The most astounding evidence in cosmology.
 subtitle: Do you understand the CMBR?
 published: 2018-02-16
-thumbnail: '![](https://cdn-images-1.medium.com/max/1600/1*3YLeDlOvASyEKTnKR0t8VQ.png)'
+thumbnail: 'https://cdn-images-1.medium.com/max/1600/1*3YLeDlOvASyEKTnKR0t8VQ.png'
 updated: null
 tags: ['Science','CMB','Cosmology','Physics','Understanding','Evidence']
 ---
