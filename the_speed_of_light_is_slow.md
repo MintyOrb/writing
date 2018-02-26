@@ -122,7 +122,7 @@ If the gravitational constant were a bit weaker, galaxies may have never formed.
 
 The odds of a universe coming into existence with values for the constants that gives rise to our kind of life could be exceedingly small...but the chances of finding ourselves in a universe with constants that give rise to our kind of life, are exactly one<span class='aside' title="Anthropic mania is looking into the night sky and thinking the universe must exist solely because we are here to see it. The fact of our existence as intelligent beings who can measure physical constants requires those constants to be such that beings like us can exist. ">\*</span>.
 
-In any case it could be that if the speed of light were faster or slower, we wouldn’t notice anyway…the speed that our neurons fire, giving rise to our thoughts and perceptions, is governed by the speed of light. So while the ‘absolute speed’ could be slower or faster, the relative speed of our perception to this ‘absolute speed’ would remain the same.
+In any case it could be that if the speed of light were faster or slower, we wouldn't notice anyway...the speed that our neurons fire, giving rise to our thoughts and perceptions, is governed by the speed of light. So while the 'absolute speed' could be slower or faster, the relative speed of our perception to this 'absolute speed' would remain the same.
 
 It's probably a good that it's _not_ infinite, though. Afterall, a finite speed of light is what keeps everything from happening all at once.
 
