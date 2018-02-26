@@ -47,7 +47,7 @@ The short and simple answer is that in the future, much more of us will have an 
 
 We'll know a lot more individual truths, but we'll also internalize the larger narrative arcs of our existence. We'll know the histories of how we uncovered theses truths and we'll understand the evidence that justifies our knowledge.
 
-We will know where we are in our cosmic neighborhood; well know Alpha Centauri A is 4.3 light years away, that the Andromeda galaxy is 2.5 million, and that there are 50 galaxies in our local group.
+We will know where we are in our cosmic neighborhood; we'll know Alpha Centauri A is 4.3 light years away, that the Andromeda galaxy is 2.5 million, and that there are 50 galaxies in our local group.
 
 We'll discuss our favorite interpretations of quantum mechanics around the dinner table.
 
@@ -59,7 +59,7 @@ And we will all be able to tell the detailed, evidence based story of how the ea
 
 We'll all understand the splitting off of the four fundamental forces shortly after the big bang as the first phase changes of the universe as it expands and cools.
 
-We'll understand how the CMBR is a baby picture of the universe.
+We'll understand how the [CMBR is a baby picture of the universe.](http://deepbreadth.io/#/article/the_most_astounding_evidence_in_cosmology_-_the_cmb.md)
 
 We will have an answer to the question of how the first stars formed from immense clouds of condensing of hydrogen and helium.
 

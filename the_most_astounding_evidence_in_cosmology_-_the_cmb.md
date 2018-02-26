@@ -3,7 +3,7 @@ title: The most astounding evidence in cosmology.
 subtitle: Do you understand the CMBR?
 published: 2018-02-16
 thumbnail: 'https://cdn-images-1.medium.com/max/1600/1*3YLeDlOvASyEKTnKR0t8VQ.png'
-updated: null
+updated: 2018-02-21
 tags: ['Science','CMB','Cosmology','Physics','Understanding','Evidence']
 ---
 ## The most astounding evidence in cosmology.
@@ -120,6 +120,12 @@ We don't.
 Our understanding of this astounding evidence will almost definitely be enhanced, **but the evidence isn't going away.**
 
 The CMBR fits seamlessly alongside the vast number of other observations made probing the nature of the universe. Along with the cosmic redshift, it provides the basis for the cohesive compelling story of how we got to where we are today. Close analysis of the CMBR reinforces our understanding of not only the age of the universe, but it's size,  shape, and makeup as well. But we'll save that for another article...
+
+Making observations from activities at the edge of perceptibility and dreaming up possible explanations does feel prone to error...luckily it's not one observation, but a multitude, and rather than a multitude of explanations to match, we have essentially one.
+
+Not only that, but in addition to the observations of events _long ago and far away_, we run experiments  _today and here on earth_ that re-create the conditions we think existed everywhere near the beginning of the universe.
+
+In the Large Hadron Collider and other particle accelerators, when we speed up subatomic particles to 99.999% the speed of light and smash them into each other, we're simulating what it was like _everywhere_ before the CMBR was released.
 
 New interpretations, explanations and theories are _always_ welcome, but ideas competing to explain the nature of our existence must incorporate and explain this evidence too. 
 
