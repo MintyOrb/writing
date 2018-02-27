@@ -18,7 +18,7 @@ Light is the fastest thing there is, but the universe is also big.
 
 _Really_ big.
 
-Modern communication technologies sending information at the speed of light enable us to have seamless conversations with people on the other side of the planet, but if you wanted to talk to a friend of yours on the moon, there would be almost a **two and a half second delay.**
+Modern communication technologies sending information at the speed of light enable us to have seamless conversations with people on the other side of the planet, but if you wanted to talk to a friend of yours on the moon, there would be almost a **2.5 second delay.**
 
 ![Image](https://cdn-images-1.medium.com/max/1600/1*SSb8nK5QcdtDFWvdGUwdbw.gif)
 <span class='caption'>The distance between the earth and moon, and the speed of light (to scale).</span>
@@ -124,7 +124,7 @@ The odds of a universe coming into existence with values for the constants that 
 
 In any case it could be that if the speed of light were faster or slower, we wouldn't notice anyway...the speed that our neurons fire, giving rise to our thoughts and perceptions, is governed by the speed of light. So while the 'absolute speed' could be slower or faster, the relative speed of our perception to this 'absolute speed' would remain the same.
 
-It's probably a good that it's _not_ infinite, though. Afterall, a finite speed of light is what keeps everything from happening all at once.
+It's probably a good thing that it's _not_ infinite, though. Afterall, a finite speed of light is what keeps everything from happening all at once.
 
 <!-- Do you better understand the speed of light? Still have questions? Let us know. -->
 

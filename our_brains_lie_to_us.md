@@ -3,7 +3,7 @@ title: Our brains lie to us.
 subtitle: How to try and see what's really there.
 published: 2018-01-24
 thumbnail: 'https://cdn-images-1.medium.com/max/1760/1*42HYjKFdtPtYhT8mNcS22w.png'
-updated: null
+updated: 2018-02-26
 tags: ['Perception','Reality','Senses','Science','Understanding']
 ---
 
@@ -56,13 +56,13 @@ They can lie about motion. This is a static picture, not an animation (feel free
 
 ![](https://cdn-images-1.medium.com/max/1760/1*ZejCMQu2hTPDJC1P1VQhyw.png)
 
-The snake illusion, illustrating peripheral drift [[s]](https://en.wikipedia.org/wiki/Peripheral_drift_illusion)
+<span class='caption'>The snake illusion, illustrating peripheral drift [[s]](https://en.wikipedia.org/wiki/Peripheral_drift_illusion)</span>
 
 They can also simultaneously lie about color and presence. Staring at the cross in the middle you should see a green dot appear where there is none, and staring longer, the purple dots should start disappearing entirely (it takes a while, maybe 15 seconds).
 
 ![](https://cdn-images-1.medium.com/max/1760/1*YS4gV3b5FqpkmywzwJ7UJA.gif)
 
-The Phi Phenomenon [[s]](http://optical-illusions.wikia.com/wiki/Phi_Phenomenon)
+<span class='caption'>The Phi Phenomenon [[s]](http://optical-illusions.wikia.com/wiki/Phi_Phenomenon)</span>
 
 The faults of our vision are easily illustrated with optical illusions, but our brains can fool our sense of hearing as well:
 
@@ -74,13 +74,13 @@ Our sense of touch can be fooled too:
 
 ![](https://cdn-images-1.medium.com/max/1760/1*jQNbh8TdEVEEVMVgkFsYqA.gif)
 
-[[s]](https://www.youtube.com/watch?v=nzF_DfOafKw)
+<span class='caption'>[[s]](https://www.youtube.com/watch?v=nzF_DfOafKw)</span>
 
 In the rubber hand illusion (and other body transfer illusions), the subject is fooled into thinking they have ownership over part of a body, or an entire body that is not there own. [[s]](https://en.wikipedia.org/wiki/Body_transfer_illusion)
 
 This is also related to phantom limbs. ~60%--80% of amputees report the sensation of an amputated or missing limb still being attached. [[s]](https://en.wikipedia.org/wiki/Phantom_limb)
 
-![](https://cdn-images-1.medium.com/max/1760/1*vLbYgDzwwA978VYHk56BHg.jpeg)
+<span class='caption'>![](https://cdn-images-1.medium.com/max/1760/1*vLbYgDzwwA978VYHk56BHg.jpeg)</span>
 
 [[s]](http://mariaeuler.com/wp-content/uploads/2016/05/E0C381B5-71FA-4F60-8C2B75F8CF002984.jpg)
 
@@ -94,7 +94,7 @@ Aside from knowing our senses are lying to us, we also know they're simply unabl
 
 #### Our lack of senses
 
-We're blind to anything that happen to quickly or too slowly or that is too small or too large.
+We're blind to anything that happens to quickly or too slowly or that is too small or too large.
 
 This seems to include *most of the things that there are.*
 
@@ -120,25 +120,25 @@ Telescopes translate things too dim, old, big, and far away for us to see into s
 
 ![](https://cdn-images-1.medium.com/max/1760/1*AwCYSMCgJZzro91Nr_m5yw.jpeg)
 
-Andromeda, our closest galactic neighbor (taken with NASA's GALAX space telescope) [[s](https://en.wikipedia.org/wiki/Andromeda_Galaxy#/media/File:Andromeda_galaxy_2.jpg)]
+<span class='caption'>Andromeda, our closest galactic neighbor (taken with NASA's GALAX space telescope) [[s](https://en.wikipedia.org/wiki/Andromeda_Galaxy#/media/File:Andromeda_galaxy_2.jpg)]</span>
 
 Microscopes open up the world of cells and organelles which most of us already take for granted.
 
 ![](https://cdn-images-1.medium.com/max/1760/1*8F8a8WL6Na1_-9enRC7e3Q.gif)
 
-A white blood cell chases down a bacterium, being drawn by its chemical scent. [[s](https://giphy.com/gifs/white-blood-cell-yIeMVujTb9Cpi)]
+<span class='caption'>A white blood cell chases down a bacterium, being drawn by its chemical scent. [[s](https://giphy.com/gifs/white-blood-cell-yIeMVujTb9Cpi)]</span>
 
 Particle colliders and bubble chambers make the subatomic world tangible.
 
 ![](https://cdn-images-1.medium.com/max/1760/1*2p_8FJQEk8VR7uHIAPO_zA.gif)
 
-The bubble chamber image from Brookhaven National Laboratory in the 1960's, tracing the path of particles including confirmation of the existence of the Omega-minus particle. [[s](http://www.hep.fsu.edu/~wahl/satmorn/history/Omega-minus.asp.htm)]
+<span class='caption'>The bubble chamber image from Brookhaven National Laboratory in the 1960's, tracing the path of particles including confirmation of the existence of the Omega-minus particle. [[s](http://www.hep.fsu.edu/~wahl/satmorn/history/Omega-minus.asp.htm)]</span>
 
-Graphs of data from any tool are essentially abstract visual representations for things that *really *exist.
+Graphs of data from any tool are essentially abstract visual representations for things that *really* exist.
 
 ![](https://cdn-images-1.medium.com/max/1760/1*fPNW3ycA2quOU-raSuN-Kw.png)
 
-A graph of billions of collisions from the LHC providing the evidence for the existence of the higgs boson. [[s](https://www.physics.mcmaster.ca/ElementaryParticle/home/the-higgs)]
+<span class='caption'>A graph of billions of collisions from the LHC providing the evidence for the existence of the higgs boson. [[s](https://www.physics.mcmaster.ca/ElementaryParticle/home/the-higgs)]</span>
 
 These are just a few examples, but all extensions of our senses essentially provide us with raw data about reality that we otherwise could not access.
 
@@ -186,7 +186,7 @@ Even when our perceptions *aren't* lying.
 
 ![](https://cdn-images-1.medium.com/max/1760/1*DY5LyoAFakiKnsuWu8F4gw.jpeg)
 
-[[s]](http://www.claybennett.com/pages2/theaters.html)
+<span class='caption'>[[s]](http://www.claybennett.com/pages2/theaters.html)</span>
 
 When we compare the model of an idea in our head with the model of the same idea from someone else's head, if they look kind of similar, we might feel we're on the right track.
 
@@ -194,7 +194,7 @@ Of course, it could be that we're both just entirely wrong.
 
 To check, we can compare our model with the models of as many people (and as many different kinds of people) as possible to look for trends and see where they overlap, and where they don't.
 
-If someone elses model for a idea is higher resolution than our own, and the person seems to know what they're talking about, we'll probably try to work on growing and extending ours to be a closer match.
+If someone else's model for a idea is higher resolution than our own, and the person seems to know what they're talking about, we'll probably try to work on growing and extending ours to be a closer match.
 
 That's what we call learning.
 
@@ -204,7 +204,7 @@ Sometimes, apparently contradictory perspective can both be correct.
 
 ![](https://cdn-images-1.medium.com/max/1760/1*ytEs9kmnGLsOS-W7chzLIA.jpeg)
 
-[[s]](https://imgur.com/gallery/CjaKtLs)
+<span class='caption'>[[s]](https://imgur.com/gallery/CjaKtLs)</span>
 
 Though other times (maybe most), ideas are truly mutually exclusive.
 
